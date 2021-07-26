@@ -1,0 +1,6 @@
+
+;python:S125"Remove this commented out code.(Пќд­эяяяя
+;python:S125*"Remove this commented out code.(ЋЊЮЯэяяяя
+;python:S125?"Remove this commented out code.(ЋЊЮЯэяяяя
+tpython:S117M"]Rename this local variable "CO2_previous" to match the regular expression ^[_a-z][a-z0-9_]*$.(¤Ќ“я
+wpython:S117L"[Rename this local variable "T_previous" to match the regular expression ^[_a-z][a-z0-9_]*$.(пЫУфщяяяя

@@ -1,0 +1,37 @@
+
+6python:S1259"Remove this commented out code.(»¦£Â
+ªpython:S1515K"’Add a parameter to the parent lambda function and use variable "h" as its default value; The value of "h" might change at the next loop iteration.(Ò»É+
+apython:S1854—"HRemove this assignment to local variable 'svd'; the value is never used.(¢íà©
+Bpython:S1481’")Remove the unused local variable "theta".(‡²­¶
+Rpython:S1481«"4Remove the unused local variable "removed_features".(Æö“Œùÿÿÿÿ
+qpython:S117¦"YRename this local variable "kwargs_W" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ê³ŽÏ
+Mpython:S1481¿"/Remove the unused local variable "num_cluster".(ÀÌØ¤üÿÿÿÿ
+Rpython:S1481Ã"4Remove the unused local variable "removed_features".(Æö“Œùÿÿÿÿ
+Rpython:S1481Ö"4Remove the unused local variable "removed_features".(Æö“Œùÿÿÿÿ
+tpython:S117Ï"WRename this local variable "Weight" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ýª°æøÿÿÿÿ
+Rpython:S1481æ"4Remove the unused local variable "removed_features".(ÿÂ†®ÿÿÿÿÿ
+opython:S117á"WRename this local variable "Weight" to match the regular expression ^[_a-z][a-z0-9_]*$.(­Íó„
+epython:S117Û"MRename this parameter "X" to match the regular expression ^[_a-z][a-z0-9_]*$.(Àã†¸
+<python:S125Ü"Remove this commented out code.(Ô½Û£þÿÿÿÿ
+Rpython:S1481ò"4Remove the unused local variable "removed_features".(ÿÂ†®ÿÿÿÿÿ
+opython:S117í"WRename this local variable "Weight" to match the regular expression ^[_a-z][a-z0-9_]*$.(ŠÚå¦
+jpython:S117ê"MRename this parameter "X" to match the regular expression ^[_a-z][a-z0-9_]*$.(¬ŽÂþÿÿÿÿ
+<python:S125ë"Remove this commented out code.(Ô½Û£þÿÿÿÿ
+6python:S3626«"Remove this redundant return.(ÙãÞŸ
+xpython:S117 "[Rename this local variable "kmeanModel" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ø‘ò€ÿÿÿÿÿ
+jpython:S117­"MRename this parameter "X" to match the regular expression ^[_a-z][a-z0-9_]*$.(†ºçðþÿÿÿÿ
+xpython:S117Ö"[Rename this local variable "KMeans_set" to match the regular expression ^[_a-z][a-z0-9_]*$.(ß‡½–ýÿÿÿÿ
+rpython:S3776û"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(š°¹ÿÿÿÿÿ
+}python:S117û"`Rename this parameter "id_Toffice_reference" to match the regular expression ^[_a-z][a-z0-9_]*$.(š°¹ÿÿÿÿÿ
+„python:S117û"gRename this parameter "id_office_CO2_concentration" to match the regular expression ^[_a-z][a-z0-9_]*$.(š°¹ÿÿÿÿÿ
+6python:S125¢"Remove this commented out code.(Ô»”R
+7python:S125¦"Remove this commented out code.(¹ŽïÞ
+‚python:S117°"eRename this local variable "id_Toffice_reference" to match the regular expression ^[_a-z][a-z0-9_]*$.(á‰ó¶þÿÿÿÿ
+„python:S117±"lRename this local variable "id_office_CO2_concentration" to match the regular expression ^[_a-z][a-z0-9_]*$.(¶Î†
+Mpython:S1656Å"/Remove or correct this useless self-assignment.(ˆ Ìœùÿÿÿÿ
+6python:S125Ê"Remove this commented out code.(óðí
+<python:S125Ø"Remove this commented out code.(’¦Âàüÿÿÿÿ
+<python:S125ä"Remove this commented out code.(ÔÚÿüûÿÿÿÿ
+<python:S125±"Remove this commented out code.(ÈÃÇêüÿÿÿÿ
+<python:S125º"Remove this commented out code.(÷îŒ‰úÿÿÿÿ
+7python:S125Â"Remove this commented out code.(Æ‡«

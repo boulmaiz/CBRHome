@@ -1,0 +1,35 @@
+
+lpython:S3776i"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(©ŸÅò
+upython:S117“"]Rename this local variable "CO2_corridor" to match the regular expression ^[_a-z][a-z0-9_]*$.(¹¡Ü
+rpython:S117Ü"ZRename this local variable "Tcorridor" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ğ†´
+|python:S117İ"_Rename this local variable "Tcorridor_door" to match the regular expression ^[_a-z][a-z0-9_]*$.(ø•Õªüÿÿÿÿ
+}python:S117ß"fRename this local variable "Tcorridor_door_window" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ü˜ğ]
+~python:S117Ş"aRename this local variable "Tcorridor_window" to match the regular expression ^[_a-z][a-z0-9_]*$.(´Ğ¦‹ùÿÿÿÿ
+ppython:S117¹"XRename this local variable "Theater" to match the regular expression ^[_a-z][a-z0-9_]*$.(û†ığ
+zpython:S117¹"bRename this local variable "Toffice_reference" to match the regular expression ^[_a-z][a-z0-9_]*$.(»ÃÕè
+mpython:S117Ä"URename this local variable "Tout" to match the regular expression ^[_a-z][a-z0-9_]*$.(Åµ
+rpython:S117Ù"ZRename this local variable "Tout_door" to match the regular expression ^[_a-z][a-z0-9_]*$.( ‰šñ
+~python:S117Û"aRename this local variable "Tout_door_window" to match the regular expression ^[_a-z][a-z0-9_]*$.(µáÎüÿÿÿÿ
+ypython:S117Ú"\Rename this local variable "Tout_window" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÖÎı¤úÿÿÿÿ
+python:S117•"qRename this local variable "corridor_CO2_concentration_zetaD" to match the regular expression ^[_a-z][a-z0-9_]*$.(µáÎüÿÿÿÿ
+python:S117—"rRename this local variable "corridor_CO2_concentration_zetaDW" to match the regular expression ^[_a-z][a-z0-9_]*$.(”Áæòøÿÿÿÿ
+ˆpython:S117–"qRename this local variable "corridor_CO2_concentration_zetaW" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÍíÀ7
+upython:S117º"XRename this local variable "dT_heat" to match the regular expression ^[_a-z][a-z0-9_]*$.(«Æ”üÿÿÿÿ
+}python:S117˜"`Rename this local variable "occupancy_zetaD" to match the regular expression ^[_a-z][a-z0-9_]*$.(Î÷£Ùúÿÿÿÿ
+ypython:S117š"aRename this local variable "occupancy_zetaDW" to match the regular expression ^[_a-z][a-z0-9_]*$.(áÜÄ¼
+wpython:S117™"`Rename this local variable "occupancy_zetaW" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ö‡Æ	
+spython:S117’"VRename this local variable "zetaD" to match the regular expression ^[_a-z][a-z0-9_]*$.(üûóÿüÿÿÿÿ
+tpython:S117”"WRename this local variable "zetaDW" to match the regular expression ^[_a-z][a-z0-9_]*$.(¯”î’şÿÿÿÿ
+mpython:S117u"VRename this local variable "zetaW" to match the regular expression ^[_a-z][a-z0-9_]*$.(°ÍûŸ
+npython:S117u"WRename this local variable "zetaW7" to match the regular expression ^[_a-z][a-z0-9_]*$.(äº¶ 
+npython:S117u"WRename this local variable "zetaW9" to match the regular expression ^[_a-z][a-z0-9_]*$.(°ÍûŸ
+7python:S125Í"Remove this commented out code.(ÄëƒŒ
+gpython:S117"ORename this parameter "Tin" to match the regular expression ^[_a-z][a-z0-9_]*$.(¸°’â
+hpython:S117"PRename this parameter "Tout" to match the regular expression ^[_a-z][a-z0-9_]*$.(¸°’â
+xpython:S117‘"[Rename this local variable "dTheat_abs" to match the regular expression ^[_a-z][a-z0-9_]*$.(À¯åıÿÿÿÿ
+|python:S117“"_Rename this local variable "dTheat_abs_day" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ú€Íşÿÿÿÿ
+vpython:S1542"]Rename function "indicator_dTheat_abs" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¸°’â
+Cpython:S1481˜"%Remove the unused local variable "l".(ß±Ä÷şÿÿÿÿ
+7python:S125"Remove this commented out code.(ÉÏúö
+7python:S125¡"Remove this commented out code.(¦äœ
+7python:S125¤"Remove this commented out code.(Éö†¨

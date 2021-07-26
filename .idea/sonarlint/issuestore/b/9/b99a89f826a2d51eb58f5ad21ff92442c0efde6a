@@ -1,0 +1,51 @@
+
+Hpython:S1066ä"/Merge this if statement with the enclosing one.(í»Õ‡
+cpython:S15425"KRename function "hr" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(•¥¤
+lpython:S3776ÿ"TRefactor this function to reduce its Cognitive Complexity from 60 to the 15 allowed.(Ñù¨%
+ppython:S117"SRename this local variable "Ci" to match the regular expression ^[_a-z][a-z0-9_]*$.(­øéæşÿÿÿÿ
+rpython:S117ª"[Rename this local variable "PheaterMax" to match the regular expression ^[_a-z][a-z0-9_]*$.(¸ÃÜv
+spython:S117—"[Rename this local variable "Q0corridor" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ì™«¹
+spython:S117–"VRename this local variable "Q0out" to match the regular expression ^[_a-z][a-z0-9_]*$.(©Å‹õüÿÿÿÿ
+kpython:S117›"SRename this local variable "Ri" to match the regular expression ^[_a-z][a-z0-9_]*$.(¨ôÇ¯
+ppython:S117œ"SRename this local variable "Rn" to match the regular expression ^[_a-z][a-z0-9_]*$.(±èô»øÿÿÿÿ
+mpython:S117š"URename this local variable "Rout" to match the regular expression ^[_a-z][a-z0-9_]*$.(ï‰òÈ
+<python:S125Œ"Remove this commented out code.(Ñ¤Õ»ıÿÿÿÿ
+<python:S125£"Remove this commented out code.(à²˜¸øÿÿÿÿ
+7python:S125¨"Remove this commented out code.(¹ÄÆˆ
+rpython:S117‚"ZRename this local variable "Kobserver" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ä€ÌÖ
+rpython:S117ê"URename this local variable "Qcor" to match the regular expression ^[_a-z][a-z0-9_]*$.(¤‹úôøÿÿÿÿ
+mpython:S117³"VRename this local variable "Qcors" to match the regular expression ^[_a-z][a-z0-9_]*$.(ßÙÁ
+mpython:S117è"URename this local variable "Qout" to match the regular expression ^[_a-z][a-z0-9_]*$.(¿¯Û
+spython:S117³"VRename this local variable "Qouts" to match the regular expression ^[_a-z][a-z0-9_]*$.(·ò‰İûÿÿÿÿ
+upython:S117Ø"XRename this local variable "Toffice" to match the regular expression ^[_a-z][a-z0-9_]*$.(ò§ìÉùÿÿÿÿ
+ˆpython:S117Õ"kRename this local variable "corridor_CO2_concentration" to match the regular expression ^[_a-z][a-z0-9_]*$.(Şí¥şÿÿÿÿ
+tpython:S117"\Rename this local variable "matrixA_CO2" to match the regular expression ^[_a-z][a-z0-9_]*$.(ö¼åº
+ypython:S117ù"aRename this local variable "matrixA_thermics" to match the regular expression ^[_a-z][a-z0-9_]*$.( ÇØ™
+python:S117ü"dRename this local variable "matrixB_thermics_Tn" to match the regular expression ^[_a-z][a-z0-9_]*$.(—­¬…ûÿÿÿÿ
+ƒpython:S117û"fRename this local variable "matrixB_thermics_Tout" to match the regular expression ^[_a-z][a-z0-9_]*$.(ö¢¢üÿÿÿÿ
+…python:S117ú"hRename this local variable "matrixB_thermics_phi_in" to match the regular expression ^[_a-z][a-z0-9_]*$.(µœª ÿÿÿÿÿ
+ypython:S117ı"aRename this local variable "matrixC_thermics" to match the regular expression ^[_a-z][a-z0-9_]*$.(¬î•
+{python:S117€"dRename this local variable "matrixD_thermics_Tn" to match the regular expression ^[_a-z][a-z0-9_]*$.(‰â·5
+~python:S117ÿ"fRename this local variable "matrixD_thermics_Tout" to match the regular expression ^[_a-z][a-z0-9_]*$.(ñŞ¯å
+…python:S117ş"hRename this local variable "matrixD_thermics_phi_in" to match the regular expression ^[_a-z][a-z0-9_]*$.(ŒèËäÿÿÿÿÿ
+†python:S117×"iRename this local variable "office_CO2_concentration" to match the regular expression ^[_a-z][a-z0-9_]*$.(Æ•ì¯úÿÿÿÿ
+npython:S117ğ"VRename this local variable "phi_D" to match the regular expression ^[_a-z][a-z0-9_]*$.(‡Ù´
+spython:S117ô"VRename this local variable "phi_W" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÿîäŒøÿÿÿÿ
+Cpython:S1481Ê"%Remove the unused local variable "i".(µáÎüÿÿÿÿ
+7python:S125‰"Remove this commented out code.(±Ïâ÷
+opython:S1542­"VRename function "objective_CO2" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¯—Óœ
+spython:S117Ì"VRename this local variable "Qcors" to match the regular expression ^[_a-z][a-z0-9_]*$.(âÂ¹ïúÿÿÿÿ
+spython:S117Ì"VRename this local variable "Qouts" to match the regular expression ^[_a-z][a-z0-9_]*$.(âÂ¹ïúÿÿÿÿ
+jpython:S107ä"MFunction "control" has 10 parameters, which is greater than the 7 authorized.(µáÎüÿÿÿÿ
+ppython:S117ä"SRename this parameter "Toffice" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÜÓ¤Ìÿÿÿÿÿ
+ƒpython:S117ä"fRename this parameter "corridor_CO2_concentration" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÜÓ¤Ìÿÿÿÿÿ
+xpython:S117ä"[Rename this parameter "current_Pheater" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÜÓ¤Ìÿÿÿÿÿ
+python:S117ä"dRename this parameter "office_CO2_concentration" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÜÓ¤Ìÿÿÿÿÿ
+<python:S125å"Remove this commented out code.(¯Ìáùÿÿÿÿ
+7python:S125‚"Remove this commented out code.(Ï¢ ÷
+7python:S125Š"Remove this commented out code.(ÒĞÕ
+<python:S125‘"Remove this commented out code.(É‘Œ­ıÿÿÿÿ
+<python:S125“"Remove this commented out code.(ÁëâØûÿÿÿÿ
+<python:S125–"Remove this commented out code.(À¥Îúÿÿÿÿ
+<python:S125"Remove this commented out code.(‘Ú²–ùÿÿÿÿ
+7python:S125¥"Remove this commented out code.(ó­¹

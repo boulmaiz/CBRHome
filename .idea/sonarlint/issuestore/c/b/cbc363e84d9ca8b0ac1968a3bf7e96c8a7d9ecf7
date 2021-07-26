@@ -1,0 +1,25 @@
+
+;python:S125"Remove this commented out code.(Ïä­ıÿÿÿÿ
+kpython:S117T"TRename this parameter "T_before" to match the regular expression ^[_a-z][a-z0-9_]*$.(ºŸï…
+Bpython:S1481y"%Remove the unused local variable "i".(Ş‚¶üÿÿÿÿ
+<python:S125Â"Remove this commented out code.(¸ç·ıÿÿÿÿ
+kpython:S117Ë"NRename this parameter "D1" to match the regular expression ^[_a-z][a-z0-9_]*$.(Œ¸ÉÙÿÿÿÿÿ
+kpython:S117Ë"NRename this parameter "D2" to match the regular expression ^[_a-z][a-z0-9_]*$.(Œ¸ÉÙÿÿÿÿÿ
+opython:S117Í"WRename this local variable "id_CO2" to match the regular expression ^[_a-z][a-z0-9_]*$.(ôŸÂ
+xpython:S117Ì"[Rename this local variable "id_Toffice" to match the regular expression ^[_a-z][a-z0-9_]*$.(À»ÿ“ıÿÿÿÿ
+vpython:S117Ø"YRename this local variable "mean_CO2" to match the regular expression ^[_a-z][a-z0-9_]*$.(íæ»Öÿÿÿÿÿ
+tpython:S117×"WRename this local variable "mean_T" to match the regular expression ^[_a-z][a-z0-9_]*$.(Â–±àøÿÿÿÿ
+spython:S117Ï"VRename this local variable "z_CO2" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ğ¸ğçÿÿÿÿÿ
+qpython:S117Î"ZRename this local variable "z_Toffice" to match the regular expression ^[_a-z][a-z0-9_]*$.(³ı©
+fpython:S117Ü"NRename this parameter "D1" to match the regular expression ^[_a-z][a-z0-9_]*$.(õì´Î
+fpython:S117Ü"NRename this parameter "D2" to match the regular expression ^[_a-z][a-z0-9_]*$.(õì´Î
+opython:S117Ş"WRename this local variable "id_CO2" to match the regular expression ^[_a-z][a-z0-9_]*$.(ôŸÂ
+xpython:S117İ"[Rename this local variable "id_Toffice" to match the regular expression ^[_a-z][a-z0-9_]*$.(À»ÿ“ıÿÿÿÿ
+spython:S117à"VRename this local variable "z_CO2" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ğ¸ğçÿÿÿÿÿ
+qpython:S117ß"ZRename this local variable "z_Toffice" to match the regular expression ^[_a-z][a-z0-9_]*$.(³ı©
+lpython:S117„"ORename this parameter "CO2" to match the regular expression ^[_a-z][a-z0-9_]*$.(ß¢ÎÜÿÿÿÿÿ
+{python:S117†"cRename this local variable "CO2_disatisfaction" to match the regular expression ^[_a-z][a-z0-9_]*$.(¥õÚ¹
+jpython:S117„"MRename this parameter "T" to match the regular expression ^[_a-z][a-z0-9_]*$.(ß¢ÎÜÿÿÿÿÿ
+~python:S117…"aRename this local variable "T_disatisfaction" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ô‰ñˆÿÿÿÿÿ
+gpython:S117"ORename this parameter "CO2" to match the regular expression ^[_a-z][a-z0-9_]*$.(¾…äå
+epython:S117"MRename this parameter "T" to match the regular expression ^[_a-z][a-z0-9_]*$.(¾…äå
